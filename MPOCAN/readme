@@ -3,4 +3,4 @@ MPOCAN用来解决多源场景下的跨域人脸表情识别。此方法是一�
 multi-pretrain.png展示了第一阶段的模型结构图
 multi-two.png展示了第二阶段的模型结构图
 
-我们在RAF、FER2013、SFEW2.0、JAFFE、CK+ 和Oulu数据集上进行了实验，实验结果见图result.png
+我们在RAF、FER2013、SFEW2.0、JAFFE、CK+ 和Oulu数据集上进行了实验，实验结果见图result.png 、 result2.png. 实验中使用RESNET50作为backbone，详情见代码内容。
